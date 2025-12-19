@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Peta GIS Pekanbaru</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    
+    <div id="sidebar-controls" class="card position-absolute top-0 end-0 m-3" style="width: 250px; z-index: 1000;">
+      <div class="card-body p-2">
+        <h6 class="card-title mb-1">Kontrol Layer</h6>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="toggleRTH" checked>
+          <label class="form-check-label" for="toggleRTH">
+            RTH (Ruang Terbuka Hijau)
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="toggleSampah" checked>
+          <label class="form-check-label" for="toggleSampah">
+            Titik Sampah Ilegal
+          </label>
+        </div>
+
+        <hr class="my-2">
+        
+        <h6 class="card-title mb-1">Info</h6>
+        <div id="info-box" style="font-size: 14px;">
+          Klik pada titik data untuk informasi detail.
+        </div>
+      </div>
+    </div>
+    <div id="map" class="map"></div>
+
+    <div id="popup" class="ol-popup">
+      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+      <div id="popup-content"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

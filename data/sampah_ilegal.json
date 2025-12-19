@@ -1,0 +1,1084 @@
+{
+  "type": "FeatureCollection",
+  "name": "Titik Sampah Ilegal Pekanbaru",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 9:52:09",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Plastik",
+        "Volume (m3)": 225,
+        "Jarak dari Jalan (m)": 15,
+        "Foto": "https://drive.google.com/open?id=165wOnIGOgL30R1l3UHEvFDSL532NoGb0, https://drive.google.com/open?id=1jTI_QdBdj1rBvF2H0ho-TdHmO4s1ay3g",
+        "ID_Titik": "RB-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.423683, 0.569131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 9:53:59",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 8,
+        "Jarak dari Jalan (m)": 15,
+        "Foto": "https://drive.google.com/open?id=1onYf6Vsyhu-ohi_YQExp4axaCWOXUXYC",
+        "ID_Titik": "SP01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428223, 0.538663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 9:57:24",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 61.75,
+        "Jarak dari Jalan (m)": 7,
+        "Foto": "https://drive.google.com/open?id=157AlMDIxDJIi3HX0s0pdERjpE4egVw7q",
+        "ID_Titik": "RB-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.425493, 0.567692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:00:20",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 2.25,
+        "Jarak dari Jalan (m)": 6,
+        "Foto": "https://drive.google.com/open?id=1z_vRTBflLVSGAUtRT7YZ2KMsS4n94P3d",
+        "ID_Titik": "RB-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.425556, 0.566344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:06:11",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1_8VtJUtbXqPwF7ZJ6sPBZNuZwJHHSJuG",
+        "ID_Titik": "RB-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.420943, 0.561646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:13:43",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1A2arqNkA-gcr_ZsXePcGAnVuFIamyDuv",
+        "ID_Titik": "SP02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.441886, 0.52981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:13:52",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Organik",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 15,
+        "Foto": "https://drive.google.com/open?id=1HkIP-j_yiGLqDx33jQUuN2KW1v-lxvJE",
+        "ID_Titik": "RB-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.419678, 0.564883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:18:05",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Organik",
+        "Volume (m3)": 15.9,
+        "Jarak dari Jalan (m)": 14,
+        "Foto": "https://drive.google.com/open?id=1Bbjx4h9HD37qzE20TlrRhdbigR5_qFbl",
+        "ID_Titik": "RB-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.419695, 0.565005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:21:03",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 20.25,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1jN0kaJdiBQAjeH7QrFeIldAWhOGB1wLx",
+        "ID_Titik": "RB-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.416472, 0.56565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:26:16",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 18,
+        "Jarak dari Jalan (m)": 50,
+        "Foto": "https://drive.google.com/open?id=1VVoXeSsZwUB1iiBQBLnQq9cYOBFOE1uM",
+        "ID_Titik": "RB-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.415128, 0.569279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 10:37:54",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 40,
+        "Jarak dari Jalan (m)": 6,
+        "Foto": "https://drive.google.com/open?id=1Eh3LrvP7ovSrBDMHDhRZQenGOS9aGJG8",
+        "ID_Titik": "RB-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.412108, 0.574138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 11:17:42",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 16,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1Q_Xv0zKK5jSK8-gSWm7sbrLTFwA8dKQq",
+        "ID_Titik": "SP03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.445092, 0.531988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 11:19:27",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 20,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1P5e8C23GHD7Mw-i1puf4oVxz0IURBqV5",
+        "ID_Titik": "SP04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.431585, 0.530678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 11:20:50",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1TJ1ntRAMmRGxoDSrIMLi2IFtuDlbgwBx",
+        "ID_Titik": "SP05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.447275, 0.536475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 11:22:34",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 8,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1FNJfx1TsnLdIxmldS7VgHK7bDmOL2wqX",
+        "ID_Titik": "SP06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.441137, 0.531587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 11:23:25",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 23.5,
+        "Jarak dari Jalan (m)": 20,
+        "Foto": "https://drive.google.com/open?id=1Bw3f7OkeEhcX-VPzzdZhm3TYBETB9vJH",
+        "ID_Titik": "RB-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.390561, 0.572529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 11:24:03",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 20,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1FxP4F_dhme7F1bCKOycdNwjuRWFdRU20",
+        "ID_Titik": "SP07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.44666, 0.537878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:43:25",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 10,
+        "Foto": "https://drive.google.com/open?id=1CNzRsU8w5-gWEzuv-4GtQMUQJKcDqIfV",
+        "ID_Titik": "SP08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.436308, 0.536497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:45:43",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 1,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1Xzx2G8alSmTq1sEWCVi1wlVXxPcAQ0BM",
+        "ID_Titik": "SP09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.432972, 0.53019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:47:30",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 8,
+        "Foto": "https://drive.google.com/open?id=1FWLO4H-BsFbNWR70k4tNqVYHvzih9V9V",
+        "ID_Titik": "SP10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.437898, 0.533488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:50:08",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1C1m9TBDeMVJja47YxH3l_HW9Ftjo1__q",
+        "ID_Titik": "SP11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.438062, 0.533596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:51:59",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1HMiXBpkk2MIrJcJd8TMloapxboaKsXfE",
+        "ID_Titik": "SP12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.438052, 0.533654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:53:55",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 40,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1_chxvz1Ua1vuf1YgWkWB7XVyQKdmnrIR",
+        "ID_Titik": "SP13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.439199, 0.534791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:56:15",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 15,
+        "Jarak dari Jalan (m)": 10,
+        "Foto": "https://drive.google.com/open?id=19tIC8NNOeKx-wZckPHtd7z5XgxtYCUnc",
+        "ID_Titik": "SP14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.441403, 0.535426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/9/2025 12:58:23",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 18,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1VRK97HUcZRQmHl8cCR4BrNfnzkpdgWsV",
+        "ID_Titik": "SP15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.436606, 0.53975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/28/2025 0:18:15",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1dvK_keq1Fuoi_knoSTfgirbZJozUZp8I",
+        "ID_Titik": "RB-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.424717, 0.564267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "11/28/2025 0:23:07",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1C9_E16IfHPFMuOXUj2zlj4YdPM9hTFgj",
+        "ID_Titik": "RB-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.430836, 0.558546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 21:57:00",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Lainnya (misalnya B3, puing)",
+        "Volume (m3)": 16,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=18qFWAm4QfiRirrzVdGHALj8sETWL2wxW",
+        "ID_Titik": "RB13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.421935, 0.564291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:33:34",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1oaOKBz7J0c8ZHeC6lMLn2GQFKnBHm3LS",
+        "ID_Titik": "RB-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.421581, 0.565339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:34:46",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1sd1GCS9XtR1-jHII4ILXe4mst-SIUtn2",
+        "ID_Titik": "RB-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.422397, 0.564847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:38:19",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1wE6qqWaMf17sN5C6MeH84HxkADNmolmK",
+        "ID_Titik": "RB-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.421691, 0.564722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:40:16",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1Sn8gkF14mWs85by-imQXbA6psTHSTx5x",
+        "ID_Titik": "RB-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.424471, 0.564631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:41:52",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 6,
+        "Jarak dari Jalan (m)": 7,
+        "Foto": "https://drive.google.com/open?id=1sv2zUcVHgPwiciwVMkL9uCYuWmwsfpjl",
+        "ID_Titik": "RB-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4244, 0.56337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:43:22",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1bmF1f3MSqcmwt0g6X7YZdTmfpymOiQCN",
+        "ID_Titik": "RB-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.424717, 0.564267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:44:29",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 7,
+        "Foto": "https://drive.google.com/open?id=1Su1lm6gU1-KtnMwOiNwcDah1KlRkzPft",
+        "ID_Titik": "RB-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.424537, 0.564142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:46:10",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1AxuHRbuLS07wBgsfLDkKf0Y1OvwbNw_L",
+        "ID_Titik": "RB-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.425738, 0.559313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:47:00",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 6,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1JdI3PeEYSkL3FriI18uyUS82vZiIIp1R",
+        "ID_Titik": "RB-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428681, 0.560273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:49:43",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1U9i3NDqmfWL-0dUOhHuC2s621BnRngws",
+        "ID_Titik": "RB-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.421581, 0.565339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:50:53",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1oux_oJ4-l5iH3ipMov30uEkhP1cTsUgX",
+        "ID_Titik": "RB-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.422397, 0.564847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:51:58",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1T7GaHDgzwUWCrlwM738ryrqK5CddBWv8",
+        "ID_Titik": "RB-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.421935, 0.564291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:52:57",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 6,
+        "Foto": "https://drive.google.com/open?id=1cFFwhGpxR-R959rdiDSqf-256y-A2c3U",
+        "ID_Titik": "RB-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.421691, 0.564722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:58:06",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 10,
+        "Jarak dari Jalan (m)": 7,
+        "Foto": "https://drive.google.com/open?id=1WezYHATq016NXVpew77HbxkF5qOtUKYQ",
+        "ID_Titik": "RB-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428707, 0.56032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 22:59:30",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 8,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=18iRq_VJKXYW7ZB7JLGf-ZUBTdt_s7tuo",
+        "ID_Titik": "RB-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42873, 0.560668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:00:30",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1kFXOYT38xQYYSqlsbciajFPaeHkeDhMb",
+        "ID_Titik": "RB-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.430754, 0.559308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:01:35",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1nKyR2ECH8k62oYMJRSG2C0Zhw3n-E0aq",
+        "ID_Titik": "RB-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43185, 0.55725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:02:51",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 2,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1yzpU0_g_pgM9fN7fXJDtvevL8tHWlCsT",
+        "ID_Titik": "RB-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.429097, 0.556412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:04:28",
+        "Surveyor": "M. Rizal Wahyu Hermawan",
+        "Jenis": "Campuran",
+        "Volume (m3)": 16,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=11jRxyjH5LOlj2eDj8FyAMN3P7zQZf1ps",
+        "ID_Titik": "RB-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43174, 0.557235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:06:31",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 10,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1TptEczKZgSnhRm1IwvfrVTVq5oSBkFWP",
+        "ID_Titik": "RB-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.430011, 0.556974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:07:32",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1CJqGWhmO63P1VyzJfSMqSsC3Pjl8Ct7N",
+        "ID_Titik": "RB-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.430836, 0.558546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:08:33",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 1,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1SX0kOFtbshN8jK4TJ7_ZRcStk9Nab9uf",
+        "ID_Titik": "RB-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.42996, 0.558015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:09:55",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 3,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1I8oWT7otlcwLR5NwrWWiF-bplkcby_CM",
+        "ID_Titik": "RB-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428012, 0.556066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:13:04",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 2,
+        "Foto": "https://drive.google.com/open?id=1TLRK28wWGG3bjApovun3slrDtP8d_KOx",
+        "ID_Titik": "RB-32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428871, 0.549594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:13:58",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 7,
+        "Foto": "https://drive.google.com/open?id=1p28emUEQpKaK9KSqlvq_y2MLSey4vdbz",
+        "ID_Titik": "RB-33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428833, 0.548862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:14:56",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1cHreEv9nGJ0S7ybDvpiDEE2FbnOeyzGv",
+        "ID_Titik": "RB-34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.430668, 0.549653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:16:36",
+        "Surveyor": "Adhityo Wicaksono",
+        "Jenis": "Campuran",
+        "Volume (m3)": 16,
+        "Jarak dari Jalan (m)": 7,
+        "Foto": "https://drive.google.com/open?id=1hLL0gdfGxjPUiKFD0hBHBvEwWmoFz7jW",
+        "ID_Titik": "RB-35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.428819, 0.54894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:18:04",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 1,
+        "Jarak dari Jalan (m)": 5,
+        "Foto": "https://drive.google.com/open?id=1Gpc9oC-h9WYPFgLxsGccXTHfnpAaOxTN",
+        "ID_Titik": "RB-36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.432608, 0.549708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:20:45",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 1,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1tQ4HJ_K4C_7O0IqCyvHgg1Gk5YjRalYo",
+        "ID_Titik": "RB-37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.435222, 0.548703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:26:48",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=16iY14fcOjpYio3hnZb6NyOju0Dg8lPGS",
+        "ID_Titik": "RB-38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.433209, 0.546365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:27:58",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 25,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1vvk6UdPigIfdXmG4s4jBxEzOnfC9GOpv",
+        "ID_Titik": "RB-39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.432253, 0.546744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:28:18",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 15,
+        "Jarak dari Jalan (m)": 10,
+        "Foto": "https://drive.google.com/open?id=1EiCKb-BdLlA7GzZ-rOrl3TcxWbQapdl-",
+        "ID_Titik": "RB-42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.437528, 0.544966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:29:03",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 6,
+        "Jarak dari Jalan (m)": 4,
+        "Foto": "https://drive.google.com/open?id=1GOUxM2wL_d0Nv2ZrXwGRU9N0d7cvBE-q",
+        "ID_Titik": "RB-40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.431411, 0.547072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:29:26",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 18,
+        "Jarak dari Jalan (m)": 13,
+        "Foto": "https://drive.google.com/open?id=1Hbj5Qi5Ua66g4_5vmoh62cp9PNIohnb7",
+        "ID_Titik": "RB-43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.437555, 0.545041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:30:18",
+        "Surveyor": "Afif Musyaffa",
+        "Jenis": "Campuran",
+        "Volume (m3)": 8,
+        "Jarak dari Jalan (m)": 8,
+        "Foto": "https://drive.google.com/open?id=187Z18pYA2lm5W-cZH3xPml-M7wEWM-F3",
+        "ID_Titik": "RB-41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.434303, 0.544556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:30:56",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 12,
+        "Jarak dari Jalan (m)": 9,
+        "Foto": "https://drive.google.com/open?id=1oV7PQJsjkaep4fywgjdXDB_bzAbQrg0t",
+        "ID_Titik": "RB-44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.437562, 0.545075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:32:22",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 2,
+        "Jarak dari Jalan (m)": 3,
+        "Foto": "https://drive.google.com/open?id=1HFtnXtH1xj0HJkPlcTmiYkAsbQLiVGju",
+        "ID_Titik": "RB-45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.434622, 0.54441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:34:12",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 4,
+        "Jarak dari Jalan (m)": 9,
+        "Foto": "https://drive.google.com/open?id=10qKLqj7kn_xyqNPoH2ZG2_Oh_X0jCkeT",
+        "ID_Titik": "RB-46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.437663, 0.545709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Timestamp": "12/4/2025 23:35:29",
+        "Surveyor": "M. Zidan Sabili",
+        "Jenis": "Campuran",
+        "Volume (m3)": 9,
+        "Jarak dari Jalan (m)": 12,
+        "Foto": "https://drive.google.com/open?id=1ApMYH1i1MKjLgWk2giIg4XJoErakDkNK",
+        "ID_Titik": "RB-47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.437672, 0.545679]
+      }
+    }
+  ]
+}
