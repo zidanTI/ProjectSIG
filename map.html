@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Peta GIS Pekanbaru</title>
+
+  <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+  <!-- ================= NAVBAR ================= -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-success shadow">
+    <div class="container">
+      <span class="navbar-brand fw-bold">🌱 GIS Pekanbaru</span>
+
+      <div class="ms-auto">
+        <button id="navHome" class="btn btn-success me-2">Home</button>
+        <button id="navMap" class="btn btn-success">Peta</button>
+        <button id="navAbout" class="btn btn-success ms-2">About</button>
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- ================= HOME PAGE ================= -->
+  <div id="home-page" class="d-flex justify-content-center align-items-center" style="height: 90vh;">
+    <div class="text-center p-4 bg-white shadow rounded" style="max-width: 600px;">
+      <h2 class="mb-3">Peta GIS Pekanbaru</h2>
+      <p>
+        Website ini merupakan sistem informasi geografis yang menampilkan
+        data spasial Ruang Terbuka Hijau (RTH) dan lokasi titik sampah ilegal
+        di Kota Pekanbaru.
+      </p>
+      <button id="btnMasukPeta" class="btn btn-success mt-3">
+        Masuk ke Peta
+      </button>
+    </div>
+  </div>
+  <!-- ================= ABOUT PAGE ================= -->
+  <div id="about-page" class="d-none d-flex justify-content-center align-items-center" style="height:90vh">
+    <div class="card p-4 shadow" style="max-width:600px">
+      <h4>Tentang Aplikasi</h4>
+      <p>
+        Aplikasi GIS ini dibuat untuk memvisualisasikan data spasial
+        Ruang Terbuka Hijau dan Titik Sampah Ilegal di Kota Pekanbaru
+        menggunakan OpenLayers.
+      </p>
+    </div>
+  </div>
+
+  <!-- ================= MAP PAGE ================= -->
+  <div id="map-page" class="d-none">
+
+    <!-- SIDEBAR -->
+    <div id="sidebar-controls" class="card position-absolute top-0 end-0 m-3" style="width: 250px; z-index: 1000;">
+      <div class="card-body p-2">
+        <h6 class="card-title mb-1">Kontrol Layer</h6>
+<!-- 
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="toggleRTH" checked>
+          <label class="form-check-label">RTH (Ruang Terbuka Hijau)</label>
+        </div> -->
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="toggleSampah" checked>
+          <label class="form-check-label">Titik Sampah Ilegal</label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="toggleRiau" checked>
+          <label class="form-check-label">Polygon Riau</label>
+        </div>
+
+        <hr>
+        <div id="info-box">Klik titik untuk informasi</div>
+      </div>
+    </div>
+
+    <div id="map" class="map"></div>
+
+    <div id="popup" class="ol-popup">
+      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+      <div id="popup-content"></div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="./main.js"></script>
+
+</body>
+
+</html>
